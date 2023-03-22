@@ -1,1 +1,1 @@
-# slides-one
+# Introduction-to-GraphQL
